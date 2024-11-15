@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036772380453",
+    "project_id": "tpfinal-emanuelpaige",
+    "storage_bucket": "tpfinal-emanuelpaige.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036772380453:android:0c1e6f8d452518a1f314cc",
+        "android_client_info": {
+          "package_name": "com.example.gestion_classe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGz0YlJosi87OSXOCS082SQr5F46gRNw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
